@@ -4,39 +4,37 @@
       "source": [
         {
           "type": "application/dash+xml",
-          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/85917ed3-ee1d-4019-8315-7a7ddf00455f/vod/dash.mpd",
-          "drm": {
-            "widevine": {
-              "licenseUri": "https://drm.platform-qa.kkstream.io/api/v3/drm/license",
-              "headers": {
-                "x-custom-data": "token_type=upfront&token_value=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV9pZCI6IjQ5YTVhNzc4LTgwYTAtNDY1OC05ZDU2LTcxNTJmMzRjOWY1ZSIsInJlc291cmNlX3R5cGUiOiJSRVNPVVJDRV9UWVBFX1ZPRCIsImN1c3RvbWVyX2lkIjoiY3VzdG9tZXItaWQiLCJ0ZW5hbnRfaWQiOiI3ZDFlNmQ1ZS02MjQ1LTQzYTMtYWJhMC04ZTE2Y2YzNTNkYjUiLCJvcmdfaWQiOiIxYzE1ZDQyZS1mZTlhLTQ2ZTAtYTAxMy0wMGY2MzFjNTdhZmEiLCJkcm1fY29uZmlnIjp7InZlcnNpb24iOjIsImZhaXJwbGF5Ijp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlfSwicGxheXJlYWR5Ijp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlLCJyZXF1aXJlZF9wcl9zZWN1cml0eV9sZXZlbCI6MjAwMH0sIndpZGV2aW5lIjp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlLCJyZXF1aXJlZF9lbWVfc2VjdXJpdHlfbGV2ZWwiOjF9fSwiaXNzIjoib3JiaXQiLCJzdWIiOiJjdXN0b21lci1pZCIsImlhdCI6MTY4MTM2NDkwOSwianRpIjoiNGMxZjQ3OTgtYWI1Yy00NjRhLWJmZjEtODg5Yjk3OGNkNzU0In0.Z5r3GtUFtRaVqJss4rgVbMEGUjCvY1hDkLDAhfFMmxf3yJajGKEczDZ8kZPFMd0PpXTIsLCnjMg9frOaa9EoYO4e2UpX4_y2RL4YaJBAnauGuVQo5E0vbDCxdHOPWq5nYAmjgSOz5q3cgXB9QJsmvdpQiVRcCUFS7YyDFsuMH61XOIv6zvwQajxuyNni4w7Bk6PsLy9OQ97XFJefM8V7z0jjE0cwMyc5xDvUF1N-_jiGRGHITLrZ_zOdNXyVeh8VVcvSCbIa__aXjImJmB4AHmwOBta2blabAm8OYopY7Mj9QDzpzIHko3Moek1UAPL3sbzqQAfSFafqym4QID_NvQ"
-              }
-            }
-          }
+          "src": "https://dsv0d25o8wgwv.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/1ec321d7-6559-46f0-bcf8-6c13a90532d9/vod/dash.mpd"
         },
         {
           "type": "application/x-mpegurl",
-          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/85917ed3-ee1d-4019-8315-7a7ddf00455f/vod/hls.m3u8",
-          "drm": {
-            "fairplay": {
-              "licenseUri": "https://drm.platform-qa.kkstream.io/api/v3/drm/license",
-              "certificateUri": "https://drm.platform-qa.kkstream.io/api/v3/drm/license/fairplay_cert",
-              "headers": {
-                "x-custom-data": "token_type=upfront&token_value=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV9pZCI6IjQ5YTVhNzc4LTgwYTAtNDY1OC05ZDU2LTcxNTJmMzRjOWY1ZSIsInJlc291cmNlX3R5cGUiOiJSRVNPVVJDRV9UWVBFX1ZPRCIsImN1c3RvbWVyX2lkIjoiY3VzdG9tZXItaWQiLCJ0ZW5hbnRfaWQiOiI3ZDFlNmQ1ZS02MjQ1LTQzYTMtYWJhMC04ZTE2Y2YzNTNkYjUiLCJvcmdfaWQiOiIxYzE1ZDQyZS1mZTlhLTQ2ZTAtYTAxMy0wMGY2MzFjNTdhZmEiLCJkcm1fY29uZmlnIjp7InZlcnNpb24iOjIsImZhaXJwbGF5Ijp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlfSwicGxheXJlYWR5Ijp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlLCJyZXF1aXJlZF9wcl9zZWN1cml0eV9sZXZlbCI6MjAwMH0sIndpZGV2aW5lIjp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlLCJyZXF1aXJlZF9lbWVfc2VjdXJpdHlfbGV2ZWwiOjF9fSwiaXNzIjoib3JiaXQiLCJzdWIiOiJjdXN0b21lci1pZCIsImlhdCI6MTY4MTM2NDkwOSwianRpIjoiNGMxZjQ3OTgtYWI1Yy00NjRhLWJmZjEtODg5Yjk3OGNkNzU0In0.Z5r3GtUFtRaVqJss4rgVbMEGUjCvY1hDkLDAhfFMmxf3yJajGKEczDZ8kZPFMd0PpXTIsLCnjMg9frOaa9EoYO4e2UpX4_y2RL4YaJBAnauGuVQo5E0vbDCxdHOPWq5nYAmjgSOz5q3cgXB9QJsmvdpQiVRcCUFS7YyDFsuMH61XOIv6zvwQajxuyNni4w7Bk6PsLy9OQ97XFJefM8V7z0jjE0cwMyc5xDvUF1N-_jiGRGHITLrZ_zOdNXyVeh8VVcvSCbIa__aXjImJmB4AHmwOBta2blabAm8OYopY7Mj9QDzpzIHko3Moek1UAPL3sbzqQAfSFafqym4QID_NvQ"
-              },
-              "certificateHeaders": {
-                "x-custom-data": "token_type=upfront&token_value=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV9pZCI6IjQ5YTVhNzc4LTgwYTAtNDY1OC05ZDU2LTcxNTJmMzRjOWY1ZSIsInJlc291cmNlX3R5cGUiOiJSRVNPVVJDRV9UWVBFX1ZPRCIsImN1c3RvbWVyX2lkIjoiY3VzdG9tZXItaWQiLCJ0ZW5hbnRfaWQiOiI3ZDFlNmQ1ZS02MjQ1LTQzYTMtYWJhMC04ZTE2Y2YzNTNkYjUiLCJvcmdfaWQiOiIxYzE1ZDQyZS1mZTlhLTQ2ZTAtYTAxMy0wMGY2MzFjNTdhZmEiLCJkcm1fY29uZmlnIjp7InZlcnNpb24iOjIsImZhaXJwbGF5Ijp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlfSwicGxheXJlYWR5Ijp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlLCJyZXF1aXJlZF9wcl9zZWN1cml0eV9sZXZlbCI6MjAwMH0sIndpZGV2aW5lIjp7ImhkY3AiOiJoZGNwX25vbmUiLCJvbmxpbmVfZHVyYXRpb24iOjg2NDAwLCJhbGxvd19hbmFsb2dfb3V0Ijp0cnVlLCJyZXF1aXJlZF9lbWVfc2VjdXJpdHlfbGV2ZWwiOjF9fSwiaXNzIjoib3JiaXQiLCJzdWIiOiJjdXN0b21lci1pZCIsImlhdCI6MTY4MTM2NDkwOSwianRpIjoiNGMxZjQ3OTgtYWI1Yy00NjRhLWJmZjEtODg5Yjk3OGNkNzU0In0.Z5r3GtUFtRaVqJss4rgVbMEGUjCvY1hDkLDAhfFMmxf3yJajGKEczDZ8kZPFMd0PpXTIsLCnjMg9frOaa9EoYO4e2UpX4_y2RL4YaJBAnauGuVQo5E0vbDCxdHOPWq5nYAmjgSOz5q3cgXB9QJsmvdpQiVRcCUFS7YyDFsuMH61XOIv6zvwQajxuyNni4w7Bk6PsLy9OQ97XFJefM8V7z0jjE0cwMyc5xDvUF1N-_jiGRGHITLrZ_zOdNXyVeh8VVcvSCbIa__aXjImJmB4AHmwOBta2blabAm8OYopY7Mj9QDzpzIHko3Moek1UAPL3sbzqQAfSFafqym4QID_NvQ"
-              }
-            }
-          }
+          "src": "https://dsv0d25o8wgwv.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/1ec321d7-6559-46f0-bcf8-6c13a90532d9/vod/hls.m3u8"
         },
         {
           "type": "thumbnail",
-          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/85917ed3-ee1d-4019-8315-7a7ddf00455f/thumbnail/00/thumbnails.vtt"
+          "src": "https://dsv0d25o8wgwv.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/1ec321d7-6559-46f0-bcf8-6c13a90532d9/thumbnail/00/thumbnails.vtt"
         }
       ],
       "id": "Sorry Youth",
-      "title": "拍謝少年 Sorry Youth - 噪音公寓 Noise Apartment"
+      "title": "IBC Demo Video Proposal"
+    },
+    {
+      "source": [
+        {
+          "type": "application/dash+xml",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/ef789c12-1e8f-4fe9-9833-2f75c1b9def1/vod/dash.mpd"
+        },
+        {
+          "type": "application/x-mpegurl",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/ef789c12-1e8f-4fe9-9833-2f75c1b9def1/vod/hls.m3u8"
+        },
+        {
+          "type": "thumbnail",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/ef789c12-1e8f-4fe9-9833-2f75c1b9def1/thumbnail/00/thumbnails.vtt"
+        }
+      ],
+      "id": "Lisa",
+      "title": "LISA - MONEY"
     }
   ]
 }
