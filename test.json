@@ -16,7 +16,8 @@
         }
       ],
       "id": "Sorry Youth",
-      "title": "IBC Demo Video Proposal"
+      "title": "IBC Demo Video Proposal",
+      "duration": "60"
     },
     {
       "source": [
@@ -34,7 +35,27 @@
         }
       ],
       "id": "Lisa",
-      "title": "LISA - MONEY"
+      "title": "LISA - MONEY",
+      "duration": "120"
+    },
+    {
+      "source": [
+        {
+          "type": "application/dash+xml",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/87b38a4f-d685-4776-9af7-70cc653d91b9/vod/dash.mpd"
+        },
+        {
+          "type": "application/x-mpegurl",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/87b38a4f-d685-4776-9af7-70cc653d91b9/vod/hls.m3u8"
+        },
+        {
+          "type": "thumbnail",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/87b38a4f-d685-4776-9af7-70cc653d91b9/thumbnail/00/thumbnails.vtt"
+        }
+      ],
+      "id": "Suage",
+      "title": "Suga",
+      "duration": "180"
     }
   ]
 }
