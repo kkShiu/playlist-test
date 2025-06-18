@@ -1,34 +1,34 @@
 {
   "playlist": [
    {
-    title: 'Mock general DRM',
-    source: [
+    "title": 'Mock general DRM',
+    "source": [
       {
-        type: 'application/dash+xml',
-        src: 'https://theater.saku.kkvqa.com/37/1746784337_b48e48681ec961d4222e8524806aaa30/1746786971_dash_240_360_480_720_1080.mpd',
-        drm: {
-          playready: {
-            licenseUri: 'https://stag-jon.kkstream.tech/',
-            headers: {},
+        "type": 'application/dash+xml',
+        "src": 'https://theater.saku.kkvqa.com/37/1746784337_b48e48681ec961d4222e8524806aaa30/1746786971_dash_240_360_480_720_1080.mpd',
+        "drm": {
+          "playready": {
+            "licenseUri": 'https://stag-jon.kkstream.tech/',
+            "headers": {},
           },
-          widevine: {
-            licenseUri: 'https://stag-jon.kkstream.tech/',
-            headers: {},
+          "widevine": {
+            "licenseUri": 'https://stag-jon.kkstream.tech/',
+            "headers": {},
           },
         },
       },
       {
-        type: 'application/x-mpegurl',
-        src: 'https://theater.saku.kkvqa.com/37/1746784337_b48e48681ec961d4222e8524806aaa30/1746786971_hls_240_360_480_720_1080.m3u8',
-        drm: {
-          fairplay: {
-            licenseUri: 'https://stag-jon.kkstream.tech/',
-            certificateUri: 'https://stag-jon.kkstream.tech/fairplay_cert',
-            headers: {},
+        "type": 'application/x-mpegurl',
+        "src": 'https://theater.saku.kkvqa.com/37/1746784337_b48e48681ec961d4222e8524806aaa30/1746786971_hls_240_360_480_720_1080.m3u8',
+        "drm": {
+          "fairplay": {
+            "licenseUri": 'https://stag-jon.kkstream.tech/',
+            "certificateUri": 'https://stag-jon.kkstream.tech/fairplay_cert',
+            "headers": {},
           },
         },
       },
-    ],
+    ]
   }
   ]
 }
