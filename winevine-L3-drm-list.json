@@ -1,6 +1,6 @@
 {
   "playlist": [
-  {
+   {
     title: 'Mock general DRM',
     source: [
       {
@@ -30,4 +30,5 @@
       },
     ],
   }
+  ]
 }
