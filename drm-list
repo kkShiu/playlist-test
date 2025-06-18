@@ -1,0 +1,64 @@
+{
+  "playlist": [
+    {
+      "source": [
+        {
+          "type": "application/dash+xml",
+          "src": "https://dsv0d25o8wgwv.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/1ec321d7-6559-46f0-bcf8-6c13a90532d9/vod/dash.mpd"
+        },
+        {
+          "type": "application/x-mpegurl",
+          "src": "https://dsv0d25o8wgwv.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/1ec321d7-6559-46f0-bcf8-6c13a90532d9/vod/hls.m3u8"
+        },
+        {
+          "type": "thumbnail",
+          "src": "https://dsv0d25o8wgwv.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/1ec321d7-6559-46f0-bcf8-6c13a90532d9/thumbnail/00/thumbnails.vtt"
+        }
+      ],
+      "id": "Sorry Youth",
+      "title": "IBC Demo Video Proposal",
+      "duration": "60",
+      "imageUrl": "https://thicc.mywaifulist.moe/pending/waifus/lU2OloYyXrv1vmlHEOJH0UuC3ndk65yTGmBLMCJ9.png"
+    },
+    {
+      "source": [
+        {
+          "type": "application/dash+xml",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/ef789c12-1e8f-4fe9-9833-2f75c1b9def1/vod/dash.mpd"
+        },
+        {
+          "type": "application/x-mpegurl",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/ef789c12-1e8f-4fe9-9833-2f75c1b9def1/vod/hls.m3u8"
+        },
+        {
+          "type": "thumbnail",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/ef789c12-1e8f-4fe9-9833-2f75c1b9def1/thumbnail/00/thumbnails.vtt"
+        }
+      ],
+      "id": "Lisa",
+      "title": "LISA - MONEY",
+      "duration": "120",
+      "imageUrl": "https://thicc.mywaifulist.moe/pending/waifus/lU2OloYyXrv1vmlHEOJH0UuC3ndk65yTGmBLMCJ9.png"
+    },
+    {
+      "source": [
+        {
+          "type": "application/dash+xml",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/87b38a4f-d685-4776-9af7-70cc653d91b9/vod/dash.mpd"
+        },
+        {
+          "type": "application/x-mpegurl",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/87b38a4f-d685-4776-9af7-70cc653d91b9/vod/hls.m3u8"
+        },
+        {
+          "type": "thumbnail",
+          "src": "https://d1kn28obgh8dky.cloudfront.net/7d1e6d5e-6245-43a3-aba0-8e16cf353db5/vod/87b38a4f-d685-4776-9af7-70cc653d91b9/thumbnail/00/thumbnails.vtt"
+        }
+      ],
+      "id": "Suage",
+      "title": "Suga",
+      "duration": "180",
+      "imageUrl": "https://thicc.mywaifulist.moe/pending/waifus/lU2OloYyXrv1vmlHEOJH0UuC3ndk65yTGmBLMCJ9.png"
+    },
+  ]
+}
