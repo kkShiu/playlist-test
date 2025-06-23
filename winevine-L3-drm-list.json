@@ -73,7 +73,7 @@
               },
               "certificateHeaders": {
                 "x-custom-data": "token_type=upfront&token_value=eyJhbGciOiJSUzI1NiIsImtpZCI6IjNjMDc4OTc3LTQ1MjMtNWYzMi05ODcwLTljZDgyNTMxOWUyNCIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV9pZCI6ImNhZWZjNDEwLWI4NmItNGI4Yy1hMDlkLWFiZTAyOTIwYTc0ZiIsInJlc291cmNlX3R5cGUiOiJSRVNPVVJDRV9UWVBFX1ZPRF9FVkVOVCIsImlzcyI6Im9yYml0IiwiaWF0IjoxNzQ4ODU2NDkzLCJqdGkiOiJlNjFjZTU3Yy04YmE3LTQyMGEtOTE3Ny01ZTlhMjJiOTBjNjYifQ.J9ImZXcInuujKp7TRdzlQ4VoqyS3ToaFwsoEyp_9QHl4fWDxFBPzyVby6A4nQRxWItMZqftbT8xpqC9X25kuTkX7ZtbgWZmi_pkX1u1xPx3DUe3AcwiVhXeMZ7inBxFj2AIXInC0Ju-V1o0jCHTk55AcBvC7SZsHgeF6XfMRF9KGgz6m2OTnEE5ckaGSFn_e1inYWvabQVC5u3uYUfR-a-Anm9EYJDveexEllloIH_1ny9Iz_pzV-Acr1PuZ03OfChpHfprprsGStDQOD5EPsdbbFvnz59zqwtawZvCX6EB0ITY0Ubg--O5XeApjxoNi1RfizaTkcyBk-3Vfs2Fn2TSOI4hZxEq2Raj18uQxs0D3v7YUFXDhKkf8FWr41yo8W-H3Qxuzvk9p8LowA18nSiPk_2fX-ADGUrwUsiHnCg3sKO-Ezl3NDWXYJE6-lsz0VL9gooro55t704rmYW_XprAc12Zyl5DGWi6-Wg8lPwkMe_WsaW8LyESAQlIFovm9ObIXpEQ6Hs628nYerbdt9yBpV2Iz-Ngc3MTKh9W_3j310WpASYz6GAnRGLAPxFWawDknaNAr7Nelr3ms6hQR6ZZCkZB7tuobCrkYxgo8QJieWsNyYEubjk2uFniEcVC9UiuBLYtGGCCmkGMOFrnfsLDa_cj7mMl068DRR0pGjjc"
-              }
+              },
             }
           }
         }
